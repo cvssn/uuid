@@ -1,0 +1,6 @@
+# arquivo destinado aos proprietários de código
+# este arquivo controla quem é mencionado para review para qualquer pull request fornecido
+
+# para ajuda de sintaxe veja:
+# https://help.github.com/en/gihtub/creating-cloning-and-archiving-repositories/about-code-owners#codeowners-syntax
+* @cvssn/go-uuid-contributors
